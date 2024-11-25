@@ -45,6 +45,15 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-
+## Home Page 
 ![HomePage](https://github.com/vasistachandan/crypto_dashboard/blob/main/Screenshot%20(392).png)
+
+## Favorite Seciton
+![Favorite Section](https://github.com/vasistachandan/crypto_dashboard/blob/main/Screenshot%20(393).png)
+
+## Details of Particular CryptoCurrency
+![CryptoCurrency](https://github.com/vasistachandan/crypto_dashboard/blob/main/Screenshot%20(394).png)
+
+## Exchange Page
+![Exchange Page](https://github.com/vasistachandan/crypto_dashboard/blob/main/Screenshot%20(395).png)
 
